@@ -1,7 +1,7 @@
 # Mini Connect 4
-Connect 4 over TCP. The host is able to play in the terminal while the other player can connect via "nc -v", telnet, or whatever you can use to do TCP as long as the numbers are sent as ascii
+Connect 4 over TCP. The host is able to play in the terminal while the other player can connect via "nc -v", telnet, or whatever you can use to do TCP as long as the numbers are sent as ascii. Portforwarding is neccisary for the host, if not done in the proper setting.
 
-Example Game:
+## Example Game
 ```
 Welcome To miniConnect4
 _______________
